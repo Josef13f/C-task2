@@ -1,0 +1,15 @@
+C:\2024\1 meet with code languases\Практики\att_t2\obj\Debug\net6.0\att_t2.csproj.AssemblyReference.cache
+C:\2024\1 meet with code languases\Практики\att_t2\obj\Debug\net6.0\att_t2.GeneratedMSBuildEditorConfig.editorconfig
+C:\2024\1 meet with code languases\Практики\att_t2\obj\Debug\net6.0\att_t2.AssemblyInfoInputs.cache
+C:\2024\1 meet with code languases\Практики\att_t2\obj\Debug\net6.0\att_t2.AssemblyInfo.cs
+C:\2024\1 meet with code languases\Практики\att_t2\obj\Debug\net6.0\att_t2.csproj.CoreCompileInputs.cache
+C:\2024\1 meet with code languases\Практики\att_t2\bin\Debug\net6.0\att_t2.exe
+C:\2024\1 meet with code languases\Практики\att_t2\bin\Debug\net6.0\att_t2.deps.json
+C:\2024\1 meet with code languases\Практики\att_t2\bin\Debug\net6.0\att_t2.runtimeconfig.json
+C:\2024\1 meet with code languases\Практики\att_t2\bin\Debug\net6.0\att_t2.dll
+C:\2024\1 meet with code languases\Практики\att_t2\bin\Debug\net6.0\att_t2.pdb
+C:\2024\1 meet with code languases\Практики\att_t2\obj\Debug\net6.0\att_t2.dll
+C:\2024\1 meet with code languases\Практики\att_t2\obj\Debug\net6.0\refint\att_t2.dll
+C:\2024\1 meet with code languases\Практики\att_t2\obj\Debug\net6.0\att_t2.pdb
+C:\2024\1 meet with code languases\Практики\att_t2\obj\Debug\net6.0\att_t2.genruntimeconfig.cache
+C:\2024\1 meet with code languases\Практики\att_t2\obj\Debug\net6.0\ref\att_t2.dll
